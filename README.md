@@ -54,7 +54,7 @@ At first generate the JAR by executing:
 
 Then manually install the following JARs:
 
-* target/spring-swagger-codegen-api-client-0.0.1-SNAPSHOT.jar
+* target/stex-api3-client-0.0.1-SNAPSHOT.jar
 * target/lib/*.jar
 
 ## Getting Started
