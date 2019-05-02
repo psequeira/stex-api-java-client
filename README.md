@@ -65,7 +65,7 @@ Please follow the [installation](#installation) instruction and execute the foll
 import com.pseq.stex.client.invoker.*;
 import com.pseq.stex.client.invoker.auth.*;
 import com.pseq.stex.client.model.*;
-import com.baeldung.petstore.client.api.ProfileApi;
+import com.pseq.stex.client.api.ProfileApi;
 
 import java.io.File;
 import java.util.*;
