@@ -22,7 +22,7 @@ Get the list of closed (finished, partial or cancelled) orders
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.TradingHistoryApi;
+//import com.pseq.stex.client.api.TradingHistoryApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
@@ -85,7 +85,7 @@ Get trades and fees information for given order
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.TradingHistoryApi;
+//import com.pseq.stex.client.api.TradingHistoryApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 

@@ -25,7 +25,7 @@ Cancel order
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.TradingApi;
+//import com.pseq.stex.client.api.TradingApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
@@ -78,7 +78,7 @@ Get information about the given order
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.TradingApi;
+//import com.pseq.stex.client.api.TradingApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
@@ -131,7 +131,7 @@ Puts an request to delete all active (processing or pending) of the given curren
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.TradingApi;
+//import com.pseq.stex.client.api.TradingApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
@@ -184,7 +184,7 @@ List of your currently open orders for certain currency pair.
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.TradingApi;
+//import com.pseq.stex.client.api.TradingApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
@@ -235,7 +235,7 @@ Create new order and put it to the orders processing queue
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.TradingApi;
+//import com.pseq.stex.client.api.TradingApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
@@ -296,7 +296,7 @@ Puts an request to delete all active (processing or pending) orders to orders pr
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.TradingApi;
+//import com.pseq.stex.client.api.TradingApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
@@ -345,7 +345,7 @@ List of your currently open orders.
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.TradingApi;
+//import com.pseq.stex.client.api.TradingApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 

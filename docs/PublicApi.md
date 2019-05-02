@@ -30,7 +30,7 @@ Provides a list of candles for the chart. Candles are always ordered in descendi
 ```java
 // Import classes:
 //import com.pseq.stex.client.invoker.ApiException;
-//import com.baeldung.petstore.client.api.PublicApi;
+//import com.pseq.stex.client.api.PublicApi;
 
 
 PublicApi apiInstance = new PublicApi();
@@ -83,7 +83,7 @@ Get currency info
 ```java
 // Import classes:
 //import com.pseq.stex.client.invoker.ApiException;
-//import com.baeldung.petstore.client.api.PublicApi;
+//import com.pseq.stex.client.api.PublicApi;
 
 
 PublicApi apiInstance = new PublicApi();
@@ -128,7 +128,7 @@ Get list of avialable currencies.
 ```java
 // Import classes:
 //import com.pseq.stex.client.invoker.ApiException;
-//import com.baeldung.petstore.client.api.PublicApi;
+//import com.pseq.stex.client.api.PublicApi;
 
 
 PublicApi apiInstance = new PublicApi();
@@ -167,7 +167,7 @@ Get currency pair information
 ```java
 // Import classes:
 //import com.pseq.stex.client.invoker.ApiException;
-//import com.baeldung.petstore.client.api.PublicApi;
+//import com.pseq.stex.client.api.PublicApi;
 
 
 PublicApi apiInstance = new PublicApi();
@@ -212,7 +212,7 @@ Returns a list of avialable currency pairs in the given currency pair group
 ```java
 // Import classes:
 //import com.pseq.stex.client.invoker.ApiException;
-//import com.baeldung.petstore.client.api.PublicApi;
+//import com.pseq.stex.client.api.PublicApi;
 
 
 PublicApi apiInstance = new PublicApi();
@@ -257,7 +257,7 @@ Returns a list of avialable currency pairs in the given market if {code} is one 
 ```java
 // Import classes:
 //import com.pseq.stex.client.invoker.ApiException;
-//import com.baeldung.petstore.client.api.PublicApi;
+//import com.pseq.stex.client.api.PublicApi;
 
 
 PublicApi apiInstance = new PublicApi();
@@ -302,7 +302,7 @@ Get list of all avialable markets
 ```java
 // Import classes:
 //import com.pseq.stex.client.invoker.ApiException;
-//import com.baeldung.petstore.client.api.PublicApi;
+//import com.pseq.stex.client.api.PublicApi;
 
 
 PublicApi apiInstance = new PublicApi();
@@ -341,7 +341,7 @@ Orderbook for given currency pair
 ```java
 // Import classes:
 //import com.pseq.stex.client.invoker.ApiException;
-//import com.baeldung.petstore.client.api.PublicApi;
+//import com.pseq.stex.client.api.PublicApi;
 
 
 PublicApi apiInstance = new PublicApi();
@@ -390,7 +390,7 @@ Get list of all avialable currency pairs groups
 ```java
 // Import classes:
 //import com.pseq.stex.client.invoker.ApiException;
-//import com.baeldung.petstore.client.api.PublicApi;
+//import com.pseq.stex.client.api.PublicApi;
 
 
 PublicApi apiInstance = new PublicApi();
@@ -429,7 +429,7 @@ Test API is working and get server time
 ```java
 // Import classes:
 //import com.pseq.stex.client.invoker.ApiException;
-//import com.baeldung.petstore.client.api.PublicApi;
+//import com.pseq.stex.client.api.PublicApi;
 
 
 PublicApi apiInstance = new PublicApi();
@@ -470,7 +470,7 @@ Returns last 24H information about currency pair ticker
 ```java
 // Import classes:
 //import com.pseq.stex.client.invoker.ApiException;
-//import com.baeldung.petstore.client.api.PublicApi;
+//import com.pseq.stex.client.api.PublicApi;
 
 
 PublicApi apiInstance = new PublicApi();
@@ -515,7 +515,7 @@ Returns last 24H information about every currency pair.
 ```java
 // Import classes:
 //import com.pseq.stex.client.invoker.ApiException;
-//import com.baeldung.petstore.client.api.PublicApi;
+//import com.pseq.stex.client.api.PublicApi;
 
 
 PublicApi apiInstance = new PublicApi();
@@ -554,7 +554,7 @@ Trades for given currency pair
 ```java
 // Import classes:
 //import com.pseq.stex.client.invoker.ApiException;
-//import com.baeldung.petstore.client.api.PublicApi;
+//import com.pseq.stex.client.api.PublicApi;
 
 
 PublicApi apiInstance = new PublicApi();

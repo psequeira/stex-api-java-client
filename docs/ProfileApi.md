@@ -32,7 +32,7 @@ Returns a list of deposits the user has made to the exchange according to the fi
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.ProfileApi;
+//import com.pseq.stex.client.api.ProfileApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
@@ -93,7 +93,7 @@ Get deposit by id
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.ProfileApi;
+//import com.pseq.stex.client.api.ProfileApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
@@ -146,7 +146,7 @@ Get general information about the current user
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.ProfileApi;
+//import com.pseq.stex.client.api.ProfileApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
@@ -193,7 +193,7 @@ Get deposit address for given wallet
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.ProfileApi;
+//import com.pseq.stex.client.api.ProfileApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
@@ -246,7 +246,7 @@ This method allows to generate deposit address if no address was previously gene
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.ProfileApi;
+//import com.pseq.stex.client.api.ProfileApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
@@ -297,7 +297,7 @@ Create a wallet for given currency
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.ProfileApi;
+//import com.pseq.stex.client.api.ProfileApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
@@ -348,7 +348,7 @@ Get a list of user wallets
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.ProfileApi;
+//import com.pseq.stex.client.api.ProfileApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
@@ -401,7 +401,7 @@ Single wallet information
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.ProfileApi;
+//import com.pseq.stex.client.api.ProfileApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
@@ -452,7 +452,7 @@ Create withdrawal request
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.ProfileApi;
+//import com.pseq.stex.client.api.ProfileApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
@@ -509,7 +509,7 @@ Cancel unconfirmed withdrawal
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.ProfileApi;
+//import com.pseq.stex.client.api.ProfileApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
@@ -560,7 +560,7 @@ Get a list of withdrawals made by user
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.ProfileApi;
+//import com.pseq.stex.client.api.ProfileApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
@@ -621,7 +621,7 @@ Get withdrawal by id
 //import com.pseq.stex.client.invoker.ApiException;
 //import com.pseq.stex.client.invoker.Configuration;
 //import com.pseq.stex.client.invoker.auth.*;
-//import com.baeldung.petstore.client.api.ProfileApi;
+//import com.pseq.stex.client.api.ProfileApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
 
