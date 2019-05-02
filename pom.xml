@@ -7,7 +7,7 @@
   <name>stex-api3-client</name>
   <version>0.0.1-SNAPSHOT</version>
   <url>https://github.com/swagger-api/swagger-codegen</url>
-  <description>A client to stex api v3 Java</description>
+  <description>A client to stex api v3 in Java</description>
 
   <prerequisites>
     <maven>2.2.0</maven>
@@ -23,10 +23,9 @@
 
   <developers>
     <developer>
-      <name>Swagger</name>
-      <email>apiteam@swagger.io</email>
-      <organization>Swagger</organization>
-      <organizationUrl>http://swagger.io</organizationUrl>
+      <name>Morps</name>
+      <email>morps@live.com</email>
+      <organization>psequeira</organization>
     </developer>
   </developers>
 
@@ -201,7 +200,7 @@
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
-      <version>${jackson-version}</version>
+      <version>2.8.11.3</version>
     </dependency>
     <dependency>
       <groupId>com.fasterxml.jackson.jaxrs</groupId>

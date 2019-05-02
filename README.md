@@ -1,4 +1,8 @@
-# stex-api3-client
+# Stex Api v3 Client
+
+## Donate 
+[BTC] 31o8WL5UHXqfPnVGAfpWp4peZyxWgYsdVh
+[ETH] 0x193Bf69141801Df77Fd9e93d197D3c8772505B97
 
 ## Requirements
 
@@ -207,10 +211,3 @@ you should implement OAuth2 within your application
 ## Recommendation
 
 It's recommended to create an instance of `ApiClient` per thread in a multithreaded environment to avoid any potential issues.
-
-## Author
-Pedro Sequeira
-
-## Donate 
-[BTC]
-[ETH]
