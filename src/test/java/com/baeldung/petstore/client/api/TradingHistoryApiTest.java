@@ -12,6 +12,7 @@
 
 package com.baeldung.petstore.client.api;
 
+import com.pseq.stex.client.api.TradingHistoryApi;
 import com.pseq.stex.client.model.OrderDetailsResponse;
 import com.pseq.stex.client.model.OrdersResponse;
 import org.junit.Test;

@@ -13,6 +13,8 @@
 package com.baeldung.petstore.client.api;
 
 import java.math.BigDecimal;
+
+import com.pseq.stex.client.api.TradingApi;
 import com.pseq.stex.client.model.DeletedOrdersResponse;
 import com.pseq.stex.client.model.OrderResponse;
 import com.pseq.stex.client.model.OrdersResponse;

@@ -12,6 +12,7 @@
 
 package com.baeldung.petstore.client.api;
 
+import com.pseq.stex.client.api.PublicApi;
 import com.pseq.stex.client.model.CandlesResponse;
 import com.pseq.stex.client.model.CurrenciesResponse;
 import com.pseq.stex.client.model.CurrencyPairGroupsResponse;

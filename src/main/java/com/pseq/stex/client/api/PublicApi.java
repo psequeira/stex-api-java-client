@@ -1,4 +1,4 @@
-package com.baeldung.petstore.client.api;
+package com.pseq.stex.client.api;
 
 import com.pseq.stex.client.invoker.ApiClient;
 
