@@ -1,7 +1,8 @@
-# Stex Api v3 Client
+# Stex Api v3 Java Client
 
 ## Donate 
 [BTC] 31o8WL5UHXqfPnVGAfpWp4peZyxWgYsdVh
+
 [ETH] 0x193Bf69141801Df77Fd9e93d197D3c8772505B97
 
 ## Requirements
@@ -53,7 +54,7 @@ At first generate the JAR by executing:
 
 Then manually install the following JARs:
 
-* target/spring-swagger-codegen-api-client-0.0.1-SNAPSHOT.jar
+* target/stex-api3-client-0.0.1-SNAPSHOT.jar
 * target/lib/*.jar
 
 ## Getting Started
