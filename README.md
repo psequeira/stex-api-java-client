@@ -1,4 +1,4 @@
-# Stex Api v3 Client
+# Stex Api v3 Java Client
 
 ## Donate 
 [BTC] 31o8WL5UHXqfPnVGAfpWp4peZyxWgYsdVh
